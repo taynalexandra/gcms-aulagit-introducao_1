@@ -12,6 +12,7 @@ public class GCMSAulaGitIntroducao {
     public static void main(String[] args) {
 
         System.out.println("Aula 1 - Introdução GIT - BASH/NetBeans");
+	System.out.println("Novo Commit!!");
 
     }
     
