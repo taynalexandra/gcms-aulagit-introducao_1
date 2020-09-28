@@ -13,8 +13,8 @@ public class GCMSAulaGitIntroducao {
         System.out.println("Aula 1 - Introdução GIT - BASH/NetBeans");
 	System.out.println("Novo Commit: BASH + Eclipse");
 
-	System.out.println("Bash - Master 1");
-	System.out.println("Bash - Master 2");
+	System.out.println("Bash - Master + Branch 1");
+	System.out.println("Bash - Master + Branch 2");
     }
     
 }
