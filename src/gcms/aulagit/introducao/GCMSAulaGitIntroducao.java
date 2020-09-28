@@ -14,7 +14,7 @@ public class GCMSAulaGitIntroducao {
 	System.out.println("Novo Commit: BASH + Eclipse");
 
 	System.out.println("Bash - Master 1");
-
+	System.out.println("Bash - Master 2");
     }
     
 }
